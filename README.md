@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-* 🌍  I'm based in Ilorin
+* 🌍  I'm based in Lagos
 * 🖥️  See my portfolio at [Oladunni Waters](http://oladunniwaters.netlify.app/)
 * ✉️  You can contact me at [waters.oladunni@gmail.com](mailto:waters.oladunni@gmail.com)
 * 🧠  I'm learning PHP
